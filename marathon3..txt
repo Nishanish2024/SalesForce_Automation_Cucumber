@@ -1,0 +1,49 @@
+Application: Salesforce : https://login.salesforce.com/
+
+Pre-requisite:
+
+a) Go to https://developer.salesforce.com/signup (Manually)
+b) Complete Sign up
+c) Have your own username and password
+
+(or)
+
+Credential:
+===========
+hari.radhakrishnan@qeagle.com
+Qeagle
+
+Username: ranjini.r@testleaf.com
+Password: Testleaf$4321
+
+radhakrishnan@testleaf.com
+Sparrow@123
+
+Testcase 1: CreateIndividuals
+
+Testcase 2: EditIndividuals
+
+Testcase 3: DeleteIndividuals
+
+
+Marathon tasks:
+
+Task 1:
+
+
+1) Run your existing code based testcases.
+
+2) Fix them on failures.
+
+3) Add the missing steps on the testcases.
+
+
+
+Task 2:
+
+
+1) Implement the Cucumber for all 3 Testcases in Salesforce
+
+2) Build proper pages by screen
+
+3) Run by parallel Test also integrated tha DataProvider to these test case
